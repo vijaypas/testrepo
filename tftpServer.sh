@@ -14,6 +14,8 @@
 # 4- Enjoy!
 #
 # Added comment
+# 
+# Added second comment
 #
 
 while true;
