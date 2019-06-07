@@ -12,6 +12,9 @@
 # 2- Change the file permission "chmod +x tftpServer.sh"
 # 3- Choose the options
 # 4- Enjoy!
+#
+# Added comment
+#
 
 while true;
 do
